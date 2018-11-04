@@ -1,3 +1,3 @@
 class User
-	attr_reader :full_name, :first_name, :last_name
+	attr_reader :full_name, :first_name, :last_name, :age
 end
