@@ -1,3 +1,3 @@
 class User
-
+	attr_reader :full_name
 end
